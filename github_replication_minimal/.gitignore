@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Generated outputs (keep folder only)
+regression_outputs/*
+!regression_outputs/.gitkeep
+
+# Optional local artifacts
+*.tmp
