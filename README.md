@@ -1,7 +1,7 @@
-﻿# Paper 2 Minimal Replication Package
+﻿# University Tech Transfer Output Replication Package
 
-This is a minimal GitHub package for reproducing the analysis from scripts.
-No paper draft and no pre-generated regression outputs are included.
+This is a GitHub package for reproducing the analysis from scripts.
+
 
 ## 1. Contents
 
